@@ -1,0 +1,117 @@
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe.config
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.Client_window.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.exe
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe.config
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\bin\Debug\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.Client_window.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe.config
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\Client.exe
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\Client.pdb
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\Classes.dll
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\bin\Debug\Classes.pdb
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.Client_window.resources
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.exe
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Client\obj\Debug\Client.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.Client_window.resources
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.exe
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\Client.exe.config
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\Client.exe
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\Client.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\Classes.dll
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\bin\Debug\Classes.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Client\obj\Debug\Client.AvatarChangeForm.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\Client.exe.config
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\Client.exe
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\Client.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\bin\Debug\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.AvatarChangeForm.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.Client_window.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.exe
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Client\obj\Debug\Client.Paint.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\Client.exe.config
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.AvatarChangeForm.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.Client_window.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.Paint.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\aa\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\bin\Debug\en\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.Client_window.aa.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\Client.Client_window.en.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\aa\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Client\obj\Debug\en\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\Client.exe.config
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\Client.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\aa\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\en\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\System.Drawing.Common.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\bin\Debug\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.AvatarChangeForm.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.Client_window.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.DirectMessageWindow.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.Paint.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.Client_window.aa.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.Client_window.en.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\aa\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\en\Client.resources.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Client\obj\Debug\Client.pdb

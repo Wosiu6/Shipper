@@ -1,0 +1,57 @@
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\Desktop\FINAL\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\Desktop\Chat Application PW\Concurent Assignment\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\w025866i\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Working Wersion\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper\Draft Version\Classes\obj\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\CNA\Assignment\Shipper v0.7\Classes\obj\Debug\netstandard2.0\Classes.pdb
